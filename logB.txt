@@ -1,3 +1,5 @@
 Start logB!
 Connecting to GDMB DB
 GDMB connection closed
+Connecting to GDMB DB
+GDMB connection closed
